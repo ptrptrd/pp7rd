@@ -1,4 +1,4 @@
-👋 Hi, I’m @pp7rd
+👋 Hi, I’m @ptrptrd
 
 I am currently exploring the world of testing - from the unit test until e2e scenarios. 
 Apart from that I am generally curious in trying many things out, therefore mixed kinds of repositories.
