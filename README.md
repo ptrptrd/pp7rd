@@ -1,7 +1,7 @@
 👋 Hi, I’m @ptrptrd
 
-I am currently exploring the world of testing - from the unit test until e2e scenarios. 
-Apart from that I am generally curious in trying many things out, therefore mixed kinds of repositories.
+Currently exploring the world of testing - from unit test to e2e. 
+In general interested in a bit of everything in coding world. 
 
 <!---
 pp7rd/pp7rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
